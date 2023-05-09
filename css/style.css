@@ -22,6 +22,7 @@ header {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+  
 
 }
 
@@ -181,19 +182,6 @@ header {
 }
 
 
-/* 
-debug
-*/
-
-.debug .navbar {
-    height: 30px;
-    width: 800px;
-    background-color: #FFA726;
-    display: flex;
-    border: 1px black dashed;
-    
-
-}
 
 .box-gray {
     width: 100%;
@@ -219,9 +207,22 @@ debug
 .logo-end,
 .bottone {
     background-color: #F08080;
-    width: 40px;
+    width: 60px;
     height: 30px;
     border: 1px black dashed;
     text-align: center;
+
+}
+
+/* 
+debug
+*/
+
+.debug .navbar {
+    height: 30px;
+    width: 800px;
+    background-color: #FFA726;
+    display: flex;
+    border: 1px black dashed;
 
 }
