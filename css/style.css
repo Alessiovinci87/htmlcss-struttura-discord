@@ -14,10 +14,34 @@ reset
     
 }
 
+header{
+    background-color: #A3CBD9;
+    width: 100%;
+    height: 100px;
+}
 
+.bottom-header{
+    background-color: #0C258B;
+    width: 100%;
+    height: 400px;
+}
 
+.logo, .link{
+
+}
+
+.bottom-header{
+   
+}
 
 /* 
 debug
 */
+
+.debug .navbar{
+    height: 30px;
+    width: 50%;
+    background-color: #FFA726;
+    display: flex;
+}
 
